@@ -1,0 +1,1 @@
+# AniDB Library for Rust
